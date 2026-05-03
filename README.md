@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://via.placeholder.com/800x400/0A1628/1E88E5?text=ABHIJITH+SAJEEV+%7C+PHYSICIAN-SCIENTIST+%7C+BIOINFORMATICS" alt="Banner Profile" />
-</div>
+
 
 <h2 align="center">Hi, I'm Abhijith Sajeev 👋</h2>
 
