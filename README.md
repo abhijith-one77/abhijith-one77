@@ -27,11 +27,11 @@ My work focuses on translating multi-omic data into clinically actionable insigh
 
 ### 🔭 Current Focus
 
-- 🧬 **Genomics & Multi-omics:** Oxford Nanopore (MinION), GATK, BWA, Samtools, Variant Calling  
-- 🧠 **AI in Healthcare:** TensorFlow, Keras, Scikit-learn, CNNs, Feature Engineering  
+- 🧬 **Genomics & Multi-omics:** Oxford Nanopore (MinION), GATK, BWA, Samtools  
+- 🧠 **AI in Healthcare:** TensorFlow, Keras, Scikit-learn, CNNs  
 - 🔬 **Cancer Genomics & Precision Medicine**  
 - ⏳ **Neurodegeneration & Longevity Science**  
-- 💻 **Programming & HPC:** Python, R, Bash, Linux, NumPy, Pandas, Matplotlib  
+- 💻 **Programming & HPC:** Python, R, Bash, Linux  
 
 ---
 
@@ -39,33 +39,27 @@ My work focuses on translating multi-omic data into clinically actionable insigh
 
 | Project | Description | Tools |
 |--------|------------|------|
-| **Thyroid Cancer FNAC-seq Pipeline** | Developing a high-throughput long-read sequencing pipeline to improve diagnostic accuracy and benchmark against histopathology for clinical use | Oxford Nanopore (MinION) |
-| **Dementia & Biological Ageing Modelling** | Analysing longitudinal multi-omic datasets to correlate biological ageing with neurological outcomes | Statistical Modelling, Multi-omics |
-| **Medical Image Classification (Deep Learning)** | Building CNN-based diagnostic models and managing full ML lifecycle from preprocessing to evaluation | TensorFlow, Keras |
+| **Thyroid Cancer FNAC-seq Pipeline** | High-throughput long-read sequencing pipeline to improve diagnostic accuracy | Oxford Nanopore |
+| **Dementia & Biological Ageing Modelling** | Multi-omic analysis linking ageing biomarkers to neurological outcomes | Statistical Modelling |
+| **Medical Image Classification** | CNN-based diagnostic models for automated classification | TensorFlow, Keras |
 
 ---
 
-### 🩺 Clinical & Research Experience
+### 🩺 Experience
 
 **Medical Doctor (Primary Care & Nursing Homes)**  
 *2022 – 2025*  
-- Managed diverse, high-volume patient caseloads  
-- Diagnosed and treated acute and chronic conditions  
-- Developed long-term management strategies and follow-up systems  
 
 **Health Tech AI & Research (UK)**  
 *2025 – Present*  
-- Facilitator in health-tech initiatives focused on AI in medicine  
-- Contributing to longevity and biomarker research (Rejuvenomics)  
-- Translating complex biomedical data for broader audiences  
 
 ---
 
 ### 📜 Certifications
 
-- **Deep Learning Specialization** — DeepLearning.AI (Coursera)  
-- **AI in Medicine Specialization** — Coursera  
-- **Basic Life Support (BLS)** — Indian Academy of Pediatrics  
+- Deep Learning Specialization — DeepLearning.AI  
+- AI in Medicine — Coursera  
+- Basic Life Support — IAP  
 
 ---
 
@@ -77,5 +71,8 @@ My work focuses on translating multi-omic data into clinically actionable insigh
   </a>
   <a href="https://linkedin.com/in/abhijith-sajeev">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/abhijith-one77/blob/main/Abhijith_Sajeev_CV.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20CV-0A1628?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </div>
