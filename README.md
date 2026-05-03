@@ -5,7 +5,7 @@
 <h4 align="center">
 Clinical Researcher | MSc Bioinformatics @ University of Birmingham
 <br>
-MBBS (General Medicine & Surgery)
+MBBS (Bachelor of Medicine, Bachelor of Surgery)
 </h4>
 
 <div align="center">
