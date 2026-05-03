@@ -3,7 +3,7 @@
 <h2 align="center">Hi, I'm Abhijith Sajeev 👋</h2>
 
 <h4 align="center">
-Physician-Scientist | MSc Bioinformatics @ University of Birmingham
+Clinical Researcher | MSc Bioinformatics @ University of Birmingham
 <br>
 MBBS (General Medicine & Surgery)
 </h4>
