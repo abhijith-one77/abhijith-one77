@@ -9,7 +9,7 @@ MBBS (Bachelor of Medicine, Bachelor of Surgery)
 </h4>
 
 <div align="center">
-  <a href="Abhijith_Sajeev_CV.pdf" target="_blank">
+  <a href="abhi_cv.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download-Full_CV_PDF-0078D4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download CV" />
   </a>
 </div>
