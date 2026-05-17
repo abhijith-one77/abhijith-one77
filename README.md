@@ -58,7 +58,7 @@ Bioinformatics researcher specialising in the intersection of clinical medicine 
 **Community & Health-Tech Engagement** | *2025 – Present*
 - **Facilitator @ Health Tech AI Hub:** Translating complex health data for public audiences.
 - **Research Volunteer @ Rejuvenomics:** Validating longevity biomarkers bridging geroscience and computation.
-- **Volunteer @ Fit4Surgery:** Driving peri-operative programme improvement through patient feedback.
+- **Facilitator @ Fit4Surgery:** Driving peri-operative programme improvement through patient feedback.
 
 ---
 
