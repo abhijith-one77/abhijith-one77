@@ -18,7 +18,7 @@ MBBS (Bachelor of Medicine, Bachelor of Surgery)
 
 ### 🔬 About Me
 
-Bioinformatics researcher specialising in the intersection of clinical medicine and computational intelligence. I develop high-throughput machine learning pipelines and genomic workflows to solve diagnostic challenges in oncology, neurodegeneration, and longevity science. My work is focused on translating multi-omic data into actionable clinical insights to advance the future of precision medicine
+Bioinformatics researcher specialising in the intersection of clinical medicine and computational biology. I develop high-throughput machine learning pipelines and genomic workflows to solve diagnostic challenges in oncology, neurodegeneration, and longevity science. My work is focused on translating multi-omic data into actionable clinical insights to advance the future of precision medicine
 
 My work aims to translate complex multi-omic data into actionable clinical insights to drive the future of precision medicine.
 
